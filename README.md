@@ -1,2 +1,2 @@
 # DisparityMapOpenCV
-Calibration stereo camera algorithm implemented on OpenCV with CUDA support
+Calibration stereo camera algorithm and building disparity map implemented on OpenCV with CUDA support
